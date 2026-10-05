@@ -1,8 +1,8 @@
 name: Update V2Ray Subscription
 
 on:
-  #schedule:
-    #- cron: "*/15 * * * *"
+  schedule:
+    - cron: "*/15 * * * *"
     
     #thanks to githubs cron trigger delay, i switched to cloudflare worker for better reliability of triggering the workflow on time.
     #however, the github cron trigger works (with a delay). uncomment two lines after on: if you want this.
