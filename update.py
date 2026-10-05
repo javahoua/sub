@@ -57,36 +57,11 @@ client = TelegramClient(
 # CONFIG (EDIT THIS ONLY)
 # =========================
 CHANNELS = {
-    -1001996629183: {"limit": 1800, "name": "ConfigsHUB2"},
-    -1001235816045: {"limit": 1800, "name": "ConfigsHUB"},
-    -1002641485940: {"limit": 1200, "name": "TheFreeConfigs"},
+    
     -1003744627358: {"limit": 500, "name": "persianvpnhub"},
-    -1002094972529: {"limit": 1000, "name": "FarahVPN" },
-    -1002750253398: {"limit": 300, "name": "NamiraConfigs" },
-    -1003794545198: {"limit": 300, "name": "vpnfreev2rayconfig" },
-    -1001651120965: {"limit": 300, "name": "Outline_ir" },
     -1001268460826: {"limit": 150, "name": "prrofile_purple" },
-    -1001528757655: {"limit": 300, "name": "red2ray" },
-    -1003856403490: {"limit": 1800, "name": "ConfigYab_AUTO" },
-    -1001429830007: {"limit": 400, "name": "DeamNet_Proxy" },
-    -1002080689208: {"limit": 1000, "name": "Farah_VPN" },
     -1001836809801: {"limit": 1000, "name": "FreakConfig" },
-    -1002435709781: {"limit": 2000, "name": "GalaxyMVPN" },
-    -1001986763169: {"limit": 2000, "name": "NamazVPN" },
-    -1001900257871: {"limit": 2000, "name": "SOSkeyNET" },
-    -1002687996628: {"limit": 300, "name": "V2rayBaaz" },
-    -1003712982226: {"limit": 1000, "name": "chillguy_vpn" },
-    -1002025442005: {"limit": 1000, "name": "filembad" },
-    -1003613216743: {"limit": 1000, "name": "iranconnecting" },
-    -1003922859496: {"limit": 1000, "name": "CafeTweetFa" },
-    -1001315011151: {"limit": 1000, "name": "iraniroid" },
-    -1002427483854: {"limit": 500, "name": "lebertad" },
-    -1001615776338: {"limit": 500, "name": "meliproxyy" },
-    -1002168955033: {"limit": 1000, "name": "v2ray_Extractor" },
-    -1001512034774: {"limit": 1000, "name": "v2ray_dalghak" },
-    -1001943224011: {"limit": 400, "name": "v2ray_free_conf" },
-    -1001887960839: {"limit": 1000, "name": "vpnfail_v2ray" },
-    -1002057756809: {"limit": 1000, "name": "v2ray_configs_pool" },
+    
 }
 
 CHANNEL_ACTIVITY_DAYS = 3
