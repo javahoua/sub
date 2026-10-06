@@ -1,5 +1,5 @@
 {
-    "updated": "1405/07/14 10:47",
+    "updated": "1405/07/14 17:54",
     "ir_filter": {
         "source": "RIPE NCC",
         "cidr_network_count": 2544,
@@ -7,18 +7,18 @@
         "ipv6_network_count": 572
     },
     "subscriptions": {
-        "sub-full": 1470,
-        "sub-medium": 1470,
+        "sub-full": 1466,
+        "sub-medium": 1466,
         "sub-lite": 750,
         "sub-tiny": 300,
-        "ir": 233,
-        "ir-actual": 176
+        "ir": 228,
+        "ir-actual": 172
     },
     "channels": {
         "persianvpnhub": {
-            "configs": 448,
+            "configs": 446,
             "active": true,
-            "last_config": "1405/07/14 06:08"
+            "last_config": "1405/07/14 13:05"
         },
         "prrofile_purple": {
             "configs": 143,
@@ -28,7 +28,7 @@
         "FreakConfig": {
             "configs": 925,
             "active": true,
-            "last_config": "1405/07/14 09:03"
+            "last_config": "1405/07/14 15:01"
         }
     }
 }
