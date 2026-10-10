@@ -3452,7 +3452,7 @@
     "is_ir": false
   },
   "accounts.fastly.com": {
-    "checked": 1789037324.241561,
+    "checked": 1791630012.4517725,
     "is_ir": false
   },
   "accurate-drake.rooster465.autos": {
@@ -13275,6 +13275,10 @@
     "checked": 1790413431.662494,
     "is_ir": true
   },
+  "de-1.ardesnode.ru": {
+    "checked": 1791630012.4517725,
+    "is_ir": false
+  },
   "de-1.ff-id.xyz": {
     "checked": 1790165934.9135292,
     "is_ir": true
@@ -13313,6 +13317,10 @@
   },
   "de-2.0rd.net": {
     "checked": 1786403061.1012766,
+    "is_ir": false
+  },
+  "de-2.ardesnode.ru": {
+    "checked": 1791630012.4517725,
     "is_ir": false
   },
   "de-2.kihsuyhf8jkiugsxb.cfd": {
@@ -13361,6 +13369,10 @@
   },
   "de-4.kihsuyhf8jkiugsxb.cfd": {
     "checked": 1788690809.6392179,
+    "is_ir": false
+  },
+  "de-5.ardesnode.ru": {
+    "checked": 1791630012.4517725,
     "is_ir": false
   },
   "de-5.kihsuyhf8jkiugsxb.cfd": {
@@ -19376,7 +19388,7 @@
     "is_ir": false
   },
   "fi2.yservice.help": {
-    "checked": 1789037324.241561,
+    "checked": 1791630012.4517725,
     "is_ir": false
   },
   "fi21.iofast5ping.info": {
@@ -19753,6 +19765,10 @@
   },
   "finland-9.psntbt.com": {
     "checked": 1786523656.0613356,
+    "is_ir": false
+  },
+  "finland-sgood-wopd-xn--fhq0la447aac5504dea701axr1g.global.ssl.fastly.net": {
+    "checked": 1791630012.4517725,
     "is_ir": false
   },
   "finland.b2ai.top": {
@@ -20185,6 +20201,10 @@
   },
   "flypobeda.ru": {
     "checked": 1790693333.423428,
+    "is_ir": false
+  },
+  "fn-2.ardesnode.ru": {
+    "checked": 1791630012.4517725,
     "is_ir": false
   },
   "fn-2.ariyuz.org": {
@@ -20765,6 +20785,10 @@
   },
   "france-8.psntbt.com": {
     "checked": 1786523656.0613356,
+    "is_ir": false
+  },
+  "france-sgood-wopd-xn--fhq0la447aac5504dea701axr1g.global.ssl.fastly.net": {
+    "checked": 1791630012.4517725,
     "is_ir": false
   },
   "france.abrmabrtabl.com": {
@@ -22417,6 +22441,10 @@
   },
   "germany10gb.spectrum.vu": {
     "checked": 1784771379.869901,
+    "is_ir": false
+  },
+  "germany2-sgood-wopd-xn--fhq0la447aac5504dea701axr1g.global.ssl.fastly.net": {
+    "checked": 1791630012.4517725,
     "is_ir": false
   },
   "germany2.avrilon.us": {
@@ -37432,7 +37460,7 @@
     "is_ir": false
   },
   "ovd13.global.ssl.fastly.net": {
-    "checked": 1789037324.241561,
+    "checked": 1791630012.4517725,
     "is_ir": false
   },
   "ovd7.global.ssl.fastly.net": {
@@ -37708,7 +37736,7 @@
     "is_ir": false
   },
   "pane2.global.ssl.fastly.net": {
-    "checked": 1789037324.241561,
+    "checked": 1791630012.4517725,
     "is_ir": false
   },
   "pane3.global.ssl.fastly.net": {
@@ -42060,7 +42088,7 @@
     "is_ir": false
   },
   "ru.federal-usa.com": {
-    "checked": 1789037324.241561,
+    "checked": 1791630012.4517725,
     "is_ir": false
   },
   "ru.karzino-connected.com": {
@@ -45756,7 +45784,7 @@
     "is_ir": false
   },
   "shy-phoenix.cdn.cachefleet.com": {
-    "checked": 1789037324.241561,
+    "checked": 1791630012.4517725,
     "is_ir": false
   },
   "shy-star-7967.311-f0b.workers.dev": {
@@ -47075,6 +47103,10 @@
     "checked": 1784771379.869901,
     "is_ir": false
   },
+  "speedtestmark.com": {
+    "checked": 1791630012.4517725,
+    "is_ir": false
+  },
   "speestest.net": {
     "checked": 1784771379.869901,
     "is_ir": false
@@ -47404,7 +47436,7 @@
     "is_ir": false
   },
   "squeeze-turbojet-statistic-crescent-excavate-lens.global.ssl.fastly.net": {
-    "checked": 1789037324.241561,
+    "checked": 1791630012.4517725,
     "is_ir": false
   },
   "sr-production-1bab.up.railway.app": {
@@ -52259,6 +52291,10 @@
     "checked": 1785383361.6417363,
     "is_ir": false
   },
+  "uk-sgood-wopd-xn--fhq0la447aac5504dea701axr1g.global.ssl.fastly.net": {
+    "checked": 1791630012.4517725,
+    "is_ir": false
+  },
   "uk-tube-01.stre4m.net": {
     "checked": 1789114743.6603832,
     "is_ir": false
@@ -52276,7 +52312,7 @@
     "is_ir": false
   },
   "uk.cdn.cachefleet.com": {
-    "checked": 1789037324.241561,
+    "checked": 1791630012.4517725,
     "is_ir": false
   },
   "uk.connfull.org": {
@@ -59832,7 +59868,7 @@
     "is_ir": false
   },
   "x4g-production-3a78.up.railway.app": {
-    "checked": 1789037324.241561,
+    "checked": 1791630012.4517725,
     "is_ir": false
   },
   "x4g-production-3b1a.up.railway.app": {
