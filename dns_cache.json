@@ -16707,6 +16707,10 @@
     "checked": 1788946429.2023091,
     "is_ir": false
   },
+  "ee2x.global-cdn.org": {
+    "checked": 1791798032.405561,
+    "is_ir": false
+  },
   "ee4.fast-connect-service.site": {
     "checked": 1786564172.1149213,
     "is_ir": false
@@ -17161,6 +17165,10 @@
   },
   "envato.com": {
     "checked": 1788758296.9400187,
+    "is_ir": false
+  },
+  "epam.com": {
+    "checked": 1791798032.405561,
     "is_ir": false
   },
   "epge.muarua.filegear-sg.me": {
@@ -22896,7 +22904,7 @@
     "is_ir": false
   },
   "gm10.mcqueenconnection.ru": {
-    "checked": 1789197497.702772,
+    "checked": 1791798032.405561,
     "is_ir": false
   },
   "gm2026.global.ssl.fastly.net": {
@@ -32140,7 +32148,7 @@
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net": {
-    "checked": 1789203847.0704827,
+    "checked": 1791798032.405561,
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net": {
@@ -32172,7 +32180,7 @@
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net": {
-    "checked": 1789203847.0704827,
+    "checked": 1791798032.405561,
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net": {
@@ -32188,7 +32196,7 @@
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-44.global.ssl.fastly.net": {
-    "checked": 1789202068.0609944,
+    "checked": 1791798032.405561,
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net": {
@@ -32200,7 +32208,7 @@
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-5.global.ssl.fastly.net": {
-    "checked": 1789203847.0704827,
+    "checked": 1791798032.405561,
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net": {
@@ -34573,6 +34581,10 @@
   },
   "nl-1.srv.dvzh.net": {
     "checked": 1791092939.985261,
+    "is_ir": false
+  },
+  "nl-1.wizard.select": {
+    "checked": 1791798032.405561,
     "is_ir": false
   },
   "nl-10.ariyuz.org": {
@@ -56063,6 +56075,10 @@
     "checked": 1788520699.6581645,
     "is_ir": false
   },
+  "wallweb-4r0.pages.dev": {
+    "checked": 1791798032.405561,
+    "is_ir": false
+  },
   "wallweb-9gw.pages.dev": {
     "checked": 1788532437.3176568,
     "is_ir": false
@@ -56640,7 +56656,7 @@
     "is_ir": true
   },
   "web.eitaa.com": {
-    "checked": 1788948235.9306624,
+    "checked": 1791798032.405561,
     "is_ir": true
   },
   "web.facebook.com": {
