@@ -5811,6 +5811,10 @@
     "checked": 1789214619.6798408,
     "is_ir": false
   },
+  "app-str-53.nexus-infinitus.com": {
+    "checked": 1791955572.6203265,
+    "is_ir": false
+  },
   "app-twa-19.deep-aispb-analytics.com": {
     "checked": 1789214619.6798408,
     "is_ir": false
@@ -6397,6 +6401,10 @@
   },
   "assets-ss-97.deep-aispb-analytics.com": {
     "checked": 1789214619.6798408,
+    "is_ir": false
+  },
+  "assets-str-53.nexus-infinitus.com": {
+    "checked": 1791955572.6203265,
     "is_ir": false
   },
   "assets-twa-19.deep-aispb-analytics.com": {
@@ -33720,7 +33728,7 @@
     "is_ir": false
   },
   "nbcnews.com": {
-    "checked": 1789363186.3231373,
+    "checked": 1791955572.6203265,
     "is_ir": false
   },
   "nbg.edgeptr.org": {
