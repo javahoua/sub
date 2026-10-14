@@ -12419,6 +12419,10 @@
     "checked": 1785228535.2418027,
     "is_ir": false
   },
+  "cuddly-sheepdog.rooster465.autos": {
+    "checked": 1791973789.7169013,
+    "is_ir": false
+  },
   "cunning-grub.rooster465.autos": {
     "checked": 1786862931.7537086,
     "is_ir": false
@@ -14824,7 +14828,7 @@
     "is_ir": false
   },
   "delivery.mp.microsoft.com": {
-    "checked": 1789374832.0615056,
+    "checked": 1791973789.7169013,
     "is_ir": false
   },
   "delivery.yandex.ru": {
@@ -48764,7 +48768,7 @@
     "is_ir": false
   },
   "storage-p2.googleapis.com": {
-    "checked": 1789043635.644504,
+    "checked": 1791973789.7169013,
     "is_ir": false
   },
   "storage-p2.googleapis.com:443": {
@@ -51021,6 +51025,10 @@
   },
   "time.local": {
     "checked": 1785701023.0904644,
+    "is_ir": false
+  },
+  "time.salphetka.ru": {
+    "checked": 1791973789.7169013,
     "is_ir": false
   },
   "time.windows.com": {
@@ -59725,6 +59733,10 @@
   },
   "www.udemy.com": {
     "checked": 1791248098.6368968,
+    "is_ir": false
+  },
+  "www.unb.ca": {
+    "checked": 1791973789.7169013,
     "is_ir": false
   },
   "www.universityofcalifornia.edu": {
