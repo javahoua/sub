@@ -12063,6 +12063,10 @@
     "checked": 1792144277.3533762,
     "is_ir": false
   },
+  "copy_az_channel_nufilter_5i.global.ssl.fastly.net": {
+    "checked": 1792276363.6800225,
+    "is_ir": false
+  },
   "copy_az_channel_nufilter_i.global.ssl.fastly.net": {
     "checked": 1792144277.3533762,
     "is_ir": false
@@ -32488,7 +32492,7 @@
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net": {
-    "checked": 1789677232.2568963,
+    "checked": 1792276363.6800225,
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-22s.global.ssl.fastly.net": {
@@ -32520,7 +32524,7 @@
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net": {
-    "checked": 1789677232.2568963,
+    "checked": 1792276363.6800225,
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-44s.global.ssl.fastly.net": {
@@ -32604,7 +32608,7 @@
     "is_ir": false
   },
   "mitivpn-mitivpn-mitivpn.global.ssl.fastly.net": {
-    "checked": 1784771379.869901,
+    "checked": 1792276363.6800225,
     "is_ir": false
   },
   "mitivpn-mitivpn.fastly.com": {
@@ -35781,6 +35785,10 @@
   },
   "nl5.gracefultun.xyz": {
     "checked": 1787252647.494894,
+    "is_ir": false
+  },
+  "nl5.hap-plus.ru": {
+    "checked": 1792276363.6800225,
     "is_ir": false
   },
   "nl5.mcloud.mov": {
