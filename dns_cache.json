@@ -3295,6 +3295,10 @@
     "checked": 1786882744.0591438,
     "is_ir": false
   },
+  "a9a3278d-cdd1-40ac-83bc-adb53ff9be3d.api-endpoint-01.cc.cd": {
+    "checked": 1792350987.2347429,
+    "is_ir": false
+  },
   "a9vercboaecf.dopweed.com": {
     "checked": 1789957110.4909418,
     "is_ir": false
@@ -37969,6 +37973,10 @@
   },
   "out-cloudflare.royal-me.site": {
     "checked": 1790939062.553072,
+    "is_ir": false
+  },
+  "out.api-endpoint-01.cc.cd": {
+    "checked": 1792350987.2347429,
     "is_ir": false
   },
   "out.metalinken.shop": {
