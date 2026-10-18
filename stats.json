@@ -1,5 +1,5 @@
 {
-    "updated": "1405/07/26 03:53",
+    "updated": "1405/07/26 08:28",
     "ir_filter": {
         "source": "RIPE NCC",
         "cidr_network_count": 2547,
@@ -28,7 +28,7 @@
         "FreakConfig": {
             "configs": 923,
             "active": true,
-            "last_config": "1405/07/25 21:36"
+            "last_config": "1405/07/26 06:55"
         }
     }
 }
