@@ -12103,6 +12103,10 @@
     "checked": 1792276363.6800225,
     "is_ir": false
   },
+  "copy_az_channel_nufilter_a11ia.global.ssl.fastly.net": {
+    "checked": 1792506158.8318028,
+    "is_ir": false
+  },
   "copy_az_channel_nufilter_a1i.global.ssl.fastly.net": {
     "checked": 1792487698.8447173,
     "is_ir": false
@@ -25495,6 +25499,10 @@
     "checked": 1785211441.022641,
     "is_ir": false
   },
+  "icdnmn.freedv.site": {
+    "checked": 1792506158.8318028,
+    "is_ir": true
+  },
   "ice.noooo.win": {
     "checked": 1791315860.8033912,
     "is_ir": false
@@ -27404,7 +27412,7 @@
     "is_ir": false
   },
   "jerry.savex.space": {
-    "checked": 1789913029.2559197,
+    "checked": 1792506158.8318028,
     "is_ir": false
   },
   "jetbrains.com": {
@@ -51686,6 +51694,10 @@
   "toni.ehsanazizi-speed-server.com": {
     "checked": 1790180319.3247204,
     "is_ir": false
+  },
+  "tookan.freedv.site": {
+    "checked": 1792506158.8318028,
+    "is_ir": true
   },
   "toolbar-regardless-giant-loans.trycloudflare.com": {
     "checked": 1788291243.5170376,
