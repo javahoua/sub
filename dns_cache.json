@@ -12147,6 +12147,18 @@
     "checked": 1792276363.6800225,
     "is_ir": false
   },
+  "copy_az_channel_nufilter_6i.global.ssl.fastly.net": {
+    "checked": 1792622366.614582,
+    "is_ir": false
+  },
+  "copy_az_channel_nufilter_7i.global.ssl.fastly.net": {
+    "checked": 1792622366.614582,
+    "is_ir": false
+  },
+  "copy_az_channel_nufilter_8i.global.ssl.fastly.net": {
+    "checked": 1792622366.614582,
+    "is_ir": false
+  },
   "copy_az_channel_nufilter_a11ia.global.ssl.fastly.net": {
     "checked": 1792506158.8318028,
     "is_ir": false
@@ -13256,7 +13268,7 @@
     "is_ir": false
   },
   "dashboard.afrakala.top": {
-    "checked": 1790029106.4884477,
+    "checked": 1792622366.614582,
     "is_ir": true
   },
   "dashboard.aframall.top": {
@@ -13276,7 +13288,7 @@
     "is_ir": false
   },
   "dashboard.afrashop.top": {
-    "checked": 1790030001.39586,
+    "checked": 1792622366.614582,
     "is_ir": true
   },
   "dashboard.afrasim.top": {
@@ -30697,6 +30709,10 @@
   },
   "lv02.tranzit-net.ru": {
     "checked": 1787941142.2830503,
+    "is_ir": false
+  },
+  "lv1.dedushka.top": {
+    "checked": 1792622366.614582,
     "is_ir": false
   },
   "lv1.hat.onl": {
