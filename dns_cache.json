@@ -640,7 +640,7 @@
     "is_ir": false
   },
   "167.104.223.66.sslip.io": {
-    "checked": 1790099310.425701,
+    "checked": 1792699052.0367188,
     "is_ir": false
   },
   "176.65.151.235.ptr.pfcloud.network": {
@@ -9883,6 +9883,10 @@
     "checked": 1791589922.5303586,
     "is_ir": false
   },
+  "cdn.g.co": {
+    "checked": 1792699052.0367188,
+    "is_ir": false
+  },
   "cdn.gapfilm.org": {
     "checked": 1785163762.2455401,
     "is_ir": true
@@ -10008,7 +10012,7 @@
     "is_ir": false
   },
   "cdn.storage.mobifitness.ru": {
-    "checked": 1790098421.733182,
+    "checked": 1792699052.0367188,
     "is_ir": false
   },
   "cdn.sw-api-dev.begmatov.dev": {
@@ -16645,6 +16649,10 @@
   },
   "edge-0cf004.cdn-edge-cache.art": {
     "checked": 1790622261.4046025,
+    "is_ir": false
+  },
+  "edge-2.navard.net": {
+    "checked": 1792699052.0367188,
     "is_ir": false
   },
   "edge-267487d0.pages.dev": {
@@ -35927,6 +35935,10 @@
     "checked": 1784771379.869901,
     "is_ir": false
   },
+  "nl3.downbala.com": {
+    "checked": 1792699052.0367188,
+    "is_ir": false
+  },
   "nl3.elusionvpn.com": {
     "checked": 1790239732.8359551,
     "is_ir": false
@@ -50351,6 +50363,10 @@
     "checked": 1789814008.9607768,
     "is_ir": false
   },
+  "swedish.global.ssl.fastly.net": {
+    "checked": 1792699052.0367188,
+    "is_ir": false
+  },
   "swedwneeji.global.ssl.fastly.net": {
     "checked": 1790879677.0736735,
     "is_ir": false
@@ -50633,6 +50649,10 @@
   },
   "t.telewebion.ir.varzesh3.com.de": {
     "checked": 1785862147.7458913,
+    "is_ir": false
+  },
+  "t0.m.awsstatic.com": {
+    "checked": 1792699052.0367188,
     "is_ir": false
   },
   "t0r.bol.qzz.io": {
@@ -55496,7 +55516,7 @@
     "is_ir": false
   },
   "viber.com": {
-    "checked": 1789085043.6295435,
+    "checked": 1792699052.0367188,
     "is_ir": false
   },
   "vicroryprovpn-production.up.railway.app": {
@@ -57563,6 +57583,10 @@
     "checked": 1785647924.5037723,
     "is_ir": false
   },
+  "web.stride.surf": {
+    "checked": 1792699052.0367188,
+    "is_ir": false
+  },
   "web.studioatlaiouaetopten.info": {
     "checked": 1791446463.4463797,
     "is_ir": false
@@ -58676,7 +58700,7 @@
     "is_ir": false
   },
   "www.amazon.com": {
-    "checked": 1789957110.4909418,
+    "checked": 1792699052.0367188,
     "is_ir": false
   },
   "www.amazon.se": {
