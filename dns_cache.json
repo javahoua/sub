@@ -4919,6 +4919,10 @@
     "checked": 1787325544.671488,
     "is_ir": false
   },
+  "amp-api-search-edge.apps.apple.com": {
+    "checked": 1792964932.7844408,
+    "is_ir": false
+  },
   "amp-api.books.apple.com": {
     "checked": 1787695462.8857582,
     "is_ir": false
@@ -10396,7 +10400,7 @@
     "is_ir": false
   },
   "cdnjs.com": {
-    "checked": 1790368495.4129264,
+    "checked": 1792964932.7844408,
     "is_ir": false
   },
   "cdnmin.esmahdi9.com": {
@@ -11975,6 +11979,10 @@
     "checked": 1789071523.4871783,
     "is_ir": false
   },
+  "community.fastly.steamstatic.com": {
+    "checked": 1792964932.7844408,
+    "is_ir": false
+  },
   "complete-narwhal.rooster465.autos": {
     "checked": 1786825149.6138773,
     "is_ir": false
@@ -12189,6 +12197,10 @@
   },
   "copy_az_channel_nufilter_10i.global.ssl.fastly.net": {
     "checked": 1792757362.9729571,
+    "is_ir": false
+  },
+  "copy_az_channel_nufilter_17i.global.ssl.fastly.net": {
+    "checked": 1792964932.7844408,
     "is_ir": false
   },
   "copy_az_channel_nufilter_2.global.ssl.fastly.net": {
@@ -16861,6 +16873,10 @@
   },
   "edge1.oneokgames.com": {
     "checked": 1784771379.869901,
+    "is_ir": false
+  },
+  "edge10.cyrionflare.com": {
+    "checked": 1792964932.7844408,
     "is_ir": false
   },
   "edge2.rumedia-cdn.com": {
@@ -28156,7 +28172,7 @@
     "is_ir": false
   },
   "jp3.yohototo.top": {
-    "checked": 1790372025.4934258,
+    "checked": 1792964932.7844408,
     "is_ir": false
   },
   "jp3xui.jzy88.top": {
@@ -46080,7 +46096,7 @@
     "is_ir": false
   },
   "sevenfeshab.global.ssl.fastly.net": {
-    "checked": 1790366635.9188132,
+    "checked": 1792964932.7844408,
     "is_ir": false
   },
   "sevo-panel-fixed.up.railway.app": {
@@ -47344,7 +47360,7 @@
     "is_ir": false
   },
   "smartcaptcha.yandexcloud.net": {
-    "checked": 1790368495.4129264,
+    "checked": 1792964932.7844408,
     "is_ir": false
   },
   "smashing-fawn.rooster465.autos": {
@@ -48424,7 +48440,7 @@
     "is_ir": false
   },
   "spry-jolt.cdn.cachefleet.com": {
-    "checked": 1790367524.3065293,
+    "checked": 1792964932.7844408,
     "is_ir": false
   },
   "sptest.hostiran.net.prod.hosts.ooklaserver.net": {
@@ -52573,6 +52589,10 @@
   },
   "trn35.mobileemdad.top": {
     "checked": 1790973266.001633,
+    "is_ir": false
+  },
+  "trn36.mobileemdad.top": {
+    "checked": 1792964932.7844408,
     "is_ir": false
   },
   "trn4.mobileemdad.top": {
@@ -62528,7 +62548,7 @@
     "is_ir": false
   },
   "ya.ru": {
-    "checked": 1790368495.4129264,
+    "checked": 1792964932.7844408,
     "is_ir": false
   },
   "yadak.zapas.site": {
