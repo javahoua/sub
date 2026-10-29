@@ -14979,6 +14979,10 @@
     "checked": 1791183862.2382672,
     "is_ir": false
   },
+  "ded1ws.samcdn.shop": {
+    "checked": 1793239931.4966235,
+    "is_ir": false
+  },
   "ded2.global.ssl.fastly.net": {
     "checked": 1791296663.1779082,
     "is_ir": false
@@ -33679,6 +33683,10 @@
     "checked": 1786403061.1012766,
     "is_ir": false
   },
+  "msydjt.com": {
+    "checked": 1793239931.4966235,
+    "is_ir": false
+  },
   "mta-sts.gtmetrix.com": {
     "checked": 1790955260.380591,
     "is_ir": false
@@ -45637,6 +45645,10 @@
   },
   "se.organic-cdn.net": {
     "checked": 1789832932.3397686,
+    "is_ir": false
+  },
+  "se.peregrine-sub.net": {
+    "checked": 1793239931.4966235,
     "is_ir": false
   },
   "se.quattro-tech.ru": {
