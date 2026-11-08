@@ -13859,6 +13859,10 @@
     "checked": 1791391723.9577317,
     "is_ir": false
   },
+  "de--2.global.ssl.fastly.net": {
+    "checked": 1794100214.4930434,
+    "is_ir": false
+  },
   "de--vip.global.ssl.fastly.net": {
     "checked": 1788371346.2411358,
     "is_ir": false
@@ -36863,6 +36867,14 @@
     "checked": 1784771379.869901,
     "is_ir": false
   },
+  "nlll--vip1.global.ssl.fastly.net": {
+    "checked": 1794100214.4930434,
+    "is_ir": false
+  },
+  "nlll--vip2.global.ssl.fastly.net": {
+    "checked": 1794100214.4930434,
+    "is_ir": false
+  },
   "nlll.gaz-service.shop": {
     "checked": 1790742848.6811848,
     "is_ir": false
@@ -45560,7 +45572,7 @@
     "is_ir": false
   },
   "safa.fastly.com": {
-    "checked": 1791507712.9542034,
+    "checked": 1794100214.4930434,
     "is_ir": false
   },
   "safdar.uicloud.tr": {
@@ -59940,7 +59952,7 @@
     "is_ir": false
   },
   "www.dell.com": {
-    "checked": 1791507712.9542034,
+    "checked": 1794100214.4930434,
     "is_ir": false
   },
   "www.deutsche-bank.de": {
