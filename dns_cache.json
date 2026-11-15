@@ -9467,6 +9467,10 @@
     "checked": 1785925149.4267285,
     "is_ir": false
   },
+  "caissuers.microsoft.com": {
+    "checked": 1794729272.1884496,
+    "is_ir": false
+  },
   "cake.capellare.com": {
     "checked": 1787652251.1986642,
     "is_ir": false
@@ -26755,6 +26759,10 @@
     "checked": 1784771379.869901,
     "is_ir": false
   },
+  "images.porsche.com": {
+    "checked": 1794729272.1884496,
+    "is_ir": false
+  },
   "images.samsung": {
     "checked": 1787384046.727878,
     "is_ir": false
@@ -33312,7 +33320,7 @@
     "is_ir": false
   },
   "metrika.yandex.ru": {
-    "checked": 1792127060.8102648,
+    "checked": 1794729272.1884496,
     "is_ir": false
   },
   "metro.proxy.rlwy.net": {
