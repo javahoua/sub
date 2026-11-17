@@ -11991,6 +11991,10 @@
     "checked": 1787622545.27934,
     "is_ir": false
   },
+  "cloudvpn2026-4.global.prod.fastly.net.global.prod.fastly.net": {
+    "checked": 1794876541.16206,
+    "is_ir": false
+  },
   "cloudy.global.ssl.fastly.net": {
     "checked": 1788353337.2358382,
     "is_ir": false
@@ -12560,7 +12564,7 @@
     "is_ir": false
   },
   "copy_az_channel_nufilter_5i.global.ssl.fastly.net": {
-    "checked": 1792276363.6800225,
+    "checked": 1794876541.16206,
     "is_ir": false
   },
   "copy_az_channel_nufilter_6i.global.ssl.fastly.net": {
@@ -14971,6 +14975,10 @@
     "checked": 1789835617.0819209,
     "is_ir": false
   },
+  "de2.gofizzin.com": {
+    "checked": 1794876541.16206,
+    "is_ir": false
+  },
   "de2.japancase.site": {
     "checked": 1793905202.7706606,
     "is_ir": false
@@ -16368,7 +16376,7 @@
     "is_ir": false
   },
   "dlk.mobileemdad.top": {
-    "checked": 1792268547.0312753,
+    "checked": 1794876541.16206,
     "is_ir": false
   },
   "dlpit.ccloudtvapp.com": {
@@ -17536,7 +17544,7 @@
     "is_ir": false
   },
   "ee-nf.reddotcorp.org": {
-    "checked": 1789293843.529931,
+    "checked": 1794876541.16206,
     "is_ir": false
   },
   "ee-node.usel.pro": {
@@ -24452,7 +24460,7 @@
     "is_ir": false
   },
   "graphs.4cdn.de": {
-    "checked": 1792259797.699208,
+    "checked": 1794876541.16206,
     "is_ir": false
   },
   "grateful-bedbug.rooster465.autos": {
@@ -26757,6 +26765,10 @@
   },
   "image-us.vipfast6.shop": {
     "checked": 1788332650.3851953,
+    "is_ir": false
+  },
+  "image-web-production-2ec53b05.up.railway.app": {
+    "checked": 1794876541.16206,
     "is_ir": false
   },
   "image.led.samsung.com": {
@@ -30165,6 +30177,10 @@
   },
   "l4.l-itx.info": {
     "checked": 1784795686.23062,
+    "is_ir": false
+  },
+  "l5zgnlesutjs.foxvpn551144.workers.dev": {
+    "checked": 1794876541.16206,
     "is_ir": false
   },
   "l75yy2sjqn5fn0gx.fornewiran-1013.workers.dev": {
@@ -33752,7 +33768,7 @@
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net": {
-    "checked": 1792268547.0312753,
+    "checked": 1794876541.16206,
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-11s.global.ssl.fastly.net": {
@@ -33768,7 +33784,7 @@
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net": {
-    "checked": 1792276363.6800225,
+    "checked": 1794876541.16206,
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-22s.global.ssl.fastly.net": {
@@ -33784,7 +33800,7 @@
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net": {
-    "checked": 1792268547.0312753,
+    "checked": 1794876541.16206,
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-33s.global.ssl.fastly.net": {
@@ -33800,7 +33816,7 @@
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net": {
-    "checked": 1792276363.6800225,
+    "checked": 1794876541.16206,
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-44s.global.ssl.fastly.net": {
@@ -33812,7 +33828,7 @@
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net": {
-    "checked": 1792268547.0312753,
+    "checked": 1794876541.16206,
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-55s.global.ssl.fastly.net": {
@@ -33820,7 +33836,7 @@
     "is_ir": false
   },
   "mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net": {
-    "checked": 1792268547.0312753,
+    "checked": 1794876541.16206,
     "is_ir": false
   },
   "mitivpn---us--s---mitivpn-1.global.ssl.fastly.net": {
@@ -33884,7 +33900,7 @@
     "is_ir": false
   },
   "mitivpn-mitivpn-mitivpn.global.ssl.fastly.net": {
-    "checked": 1792276363.6800225,
+    "checked": 1794876541.16206,
     "is_ir": false
   },
   "mitivpn-mitivpn.fastly.com": {
@@ -36963,6 +36979,10 @@
     "checked": 1790636640.53291,
     "is_ir": false
   },
+  "nl2.574ck.xyz": {
+    "checked": 1794876541.16206,
+    "is_ir": false
+  },
   "nl2.app-sync-data.space": {
     "checked": 1785927846.8543577,
     "is_ir": false
@@ -37169,6 +37189,10 @@
   },
   "nl4.zuoai.cf": {
     "checked": 1789806815.984335,
+    "is_ir": false
+  },
+  "nl41.homelab-cdn.cloud": {
+    "checked": 1794876541.16206,
     "is_ir": false
   },
   "nl5.citysborka.ru": {
@@ -51999,6 +52023,10 @@
     "checked": 1785577723.795039,
     "is_ir": false
   },
+  "swo2.nexfile.net": {
+    "checked": 1794876541.16206,
+    "is_ir": false
+  },
   "sws.irangame.lifestyle": {
     "checked": 1789046328.2725265,
     "is_ir": false
@@ -53811,6 +53839,10 @@
     "checked": 1785528228.054653,
     "is_ir": false
   },
+  "tr1.gofizzin.com": {
+    "checked": 1794876541.16206,
+    "is_ir": false
+  },
   "tr1.hat.onl": {
     "checked": 1788428047.9936225,
     "is_ir": false
@@ -55059,6 +55091,10 @@
     "checked": 1789082335.8745308,
     "is_ir": false
   },
+  "uk2.gofizz.in": {
+    "checked": 1794876541.16206,
+    "is_ir": false
+  },
   "uk2.miyazono-kaori.com": {
     "checked": 1790938170.647359,
     "is_ir": false
@@ -55809,6 +55845,10 @@
   },
   "us032010.westmgreen.com": {
     "checked": 1786188816.407344,
+    "is_ir": false
+  },
+  "us032012.westmgreen.com": {
+    "checked": 1794876541.16206,
     "is_ir": false
   },
   "us032013.ssgreen.org": {
@@ -56585,6 +56625,10 @@
   },
   "v2.v2configlab.workers.dev": {
     "checked": 1787364243.6811407,
+    "is_ir": false
+  },
+  "v213nov1abr.global.ssl.fastly.net": {
+    "checked": 1794876541.16206,
     "is_ir": false
   },
   "v257.zirogame-82.site": {
