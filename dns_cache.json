@@ -5415,6 +5415,10 @@
     "checked": 1793366519.879515,
     "is_ir": false
   },
+  "api-ns-mgr.galioncc.com": {
+    "checked": 1795045008.4789615,
+    "is_ir": false
+  },
   "api-prod.nova.nvidia.com": {
     "checked": 1790902150.0825431,
     "is_ir": false
@@ -6121,6 +6125,14 @@
   },
   "app.strashirdi.com": {
     "checked": 1787299454.6913836,
+    "is_ir": false
+  },
+  "app.streamru10.net": {
+    "checked": 1795045008.4789615,
+    "is_ir": false
+  },
+  "app.streamru14.net": {
+    "checked": 1795045008.4789615,
     "is_ir": false
   },
   "app.streamru17.net": {
@@ -8447,6 +8459,10 @@
     "checked": 1793612934.5836556,
     "is_ir": false
   },
+  "blog.discoverfreshgraduatejobsstartyourprofessionaljourney.com": {
+    "checked": 1795045008.4789615,
+    "is_ir": false
+  },
   "blog.discovergreatjobsandadvanceyourcareer.com": {
     "checked": 1794335806.3393312,
     "is_ir": false
@@ -10597,6 +10613,10 @@
   },
   "cdn4.sudonetwork.com": {
     "checked": 1784771379.869901,
+    "is_ir": false
+  },
+  "cdn4.velmoradigital.store": {
+    "checked": 1795045008.4789615,
     "is_ir": false
   },
   "cdn4ch.goonars.com": {
@@ -17317,6 +17337,10 @@
   },
   "edge-5fcec8e0.pages.dev": {
     "checked": 1787229249.8979697,
+    "is_ir": false
+  },
+  "edge-7577e858223c.eu-cdn539.com": {
+    "checked": 1795045008.4789615,
     "is_ir": false
   },
   "edge-airdro-46yw.airdrops-owrak.workers.dev": {
@@ -29291,6 +29315,10 @@
     "checked": 1784771379.869901,
     "is_ir": false
   },
+  "kabibe594.global.ssl.fastly.net": {
+    "checked": 1795045008.4789615,
+    "is_ir": false
+  },
   "kaf-production.up.railway.app": {
     "checked": 1787579343.637168,
     "is_ir": false
@@ -29689,6 +29717,10 @@
   },
   "kk-blog.chatbaza.fun": {
     "checked": 1790456632.5867164,
+    "is_ir": false
+  },
+  "kk-fr2-21468.testkknegr.online": {
+    "checked": 1795045008.4789615,
     "is_ir": false
   },
   "kk-ru24a1.testkknegr.online": {
@@ -33191,6 +33223,10 @@
     "checked": 1790151525.1086779,
     "is_ir": false
   },
+  "media-0a02cd.aiacademyhub.org": {
+    "checked": 1795045008.4789615,
+    "is_ir": false
+  },
   "media-bs22-f53l.mx.yndx-cdn.com": {
     "checked": 1787301246.007083,
     "is_ir": false
@@ -35369,6 +35405,10 @@
   },
   "native.loveplus.de5.net": {
     "checked": 1787084308.3856661,
+    "is_ir": false
+  },
+  "nativehazde.shimobile.net": {
+    "checked": 1795045008.4789615,
     "is_ir": false
   },
   "natural-collie.rooster465.autos": {
@@ -41079,6 +41119,10 @@
     "checked": 1788686303.1555626,
     "is_ir": false
   },
+  "pl8.galioncc.com": {
+    "checked": 1795045008.4789615,
+    "is_ir": false
+  },
   "pl8ksnn3q2mw.edgepop.lol": {
     "checked": 1790238832.3223457,
     "is_ir": false
@@ -43937,6 +43981,10 @@
   },
   "rltr.crystalgate.space": {
     "checked": 1787652251.1986642,
+    "is_ir": false
+  },
+  "rly-gw-cfg.galioncc.com": {
+    "checked": 1795045008.4789615,
     "is_ir": false
   },
   "rm-jp-01.409648.xyz": {
@@ -51751,6 +51799,10 @@
     "checked": 1787302155.1082594,
     "is_ir": false
   },
+  "svc-io-mgr.galioncc.com": {
+    "checked": 1795045008.4789615,
+    "is_ir": false
+  },
   "svet2015.shop": {
     "checked": 1785182667.073525,
     "is_ir": false
@@ -52217,6 +52269,10 @@
   },
   "sync.meshbeat.online": {
     "checked": 1787152696.738629,
+    "is_ir": false
+  },
+  "sync.shimobile.net": {
+    "checked": 1795045008.4789615,
     "is_ir": false
   },
   "sync.watchwave.link": {
@@ -53989,6 +54045,10 @@
   },
   "tr1.vless.site": {
     "checked": 1787587448.690839,
+    "is_ir": false
+  },
+  "tr1b.galioncc.com": {
+    "checked": 1795045008.4789615,
     "is_ir": false
   },
   "tr2.h1cloud.net": {
@@ -55995,6 +56055,10 @@
     "checked": 1786188816.407344,
     "is_ir": false
   },
+  "us032021.ssgreen.org": {
+    "checked": 1795045008.4789615,
+    "is_ir": false
+  },
   "us032024.ssgreen.org": {
     "checked": 1794523235.156606,
     "is_ir": false
@@ -56072,7 +56136,7 @@
     "is_ir": false
   },
   "us122207.ssgreen.org": {
-    "checked": 1786202327.957955,
+    "checked": 1795045008.4789615,
     "is_ir": false
   },
   "us15.zuoai.cf": {
