@@ -12644,7 +12644,7 @@
     "is_ir": false
   },
   "copy_az_channel_nufilter_6i.global.ssl.fastly.net": {
-    "checked": 1792622366.614582,
+    "checked": 1795225214.877728,
     "is_ir": false
   },
   "copy_az_channel_nufilter_711i.global.ssl.fastly.net": {
@@ -12656,7 +12656,7 @@
     "is_ir": false
   },
   "copy_az_channel_nufilter_7i.global.ssl.fastly.net": {
-    "checked": 1792622366.614582,
+    "checked": 1795225214.877728,
     "is_ir": false
   },
   "copy_az_channel_nufilter_81i.global.ssl.fastly.net": {
@@ -12664,7 +12664,7 @@
     "is_ir": false
   },
   "copy_az_channel_nufilter_8i.global.ssl.fastly.net": {
-    "checked": 1792622366.614582,
+    "checked": 1795225214.877728,
     "is_ir": false
   },
   "copy_az_channel_nufilter_a11ia.global.ssl.fastly.net": {
@@ -16257,6 +16257,10 @@
   },
   "dkzu9ie8u52s.xmzgl8esudws.workers.dev": {
     "checked": 1788851027.367645,
+    "is_ir": false
+  },
+  "dl-cdn.alpinelinux.org": {
+    "checked": 1795225214.877728,
     "is_ir": false
   },
   "dl-hk4.efyunpan.com": {
@@ -20957,6 +20961,10 @@
   },
   "fin2.mguard-pro.com": {
     "checked": 1789580943.0449731,
+    "is_ir": false
+  },
+  "fin3-r.bankai.party": {
+    "checked": 1795225214.877728,
     "is_ir": false
   },
   "fin3.o4ka-internet.com": {
@@ -33835,6 +33843,10 @@
     "checked": 1789565635.4869616,
     "is_ir": false
   },
+  "mirror.embrofree.org": {
+    "checked": 1795225214.877728,
+    "is_ir": false
+  },
   "mirror.timeweb.ru": {
     "checked": 1793288099.8582168,
     "is_ir": false
@@ -35653,6 +35665,10 @@
   },
   "ne1385.cdn-video.pro": {
     "checked": 1788121108.773779,
+    "is_ir": false
+  },
+  "ne187135.cdn-video.pro": {
+    "checked": 1795225214.877728,
     "is_ir": false
   },
   "ne3.paledweld.com": {
@@ -51015,6 +51031,10 @@
     "checked": 1787458753.4348447,
     "is_ir": false
   },
+  "stb71e5.rumedia-cdn.com": {
+    "checked": 1795225214.877728,
+    "is_ir": false
+  },
   "stdata.aghayradical.space": {
     "checked": 1786736050.339777,
     "is_ir": false
@@ -61240,7 +61260,7 @@
     "is_ir": false
   },
   "www.epson.com": {
-    "checked": 1788904111.8713312,
+    "checked": 1795225214.877728,
     "is_ir": false
   },
   "www.fandom.com": {
